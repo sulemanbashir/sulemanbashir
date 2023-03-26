@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Backend Development of Inventory Management System Using Microservice Architecture](https://github.com/sulemanbashir/microservice)
 
+- 🔎 Review my work below in pinned projects section
+
 - 🌱 I’m currently learning **DevOps, Bootstrap and Vue.js**
 
 <h3 align="left">Connect with me:</h3>

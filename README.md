@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulemanbashir&label=Profile%20views&color=0e75b6&style=flat" alt="sulemanbashir" /> </p>
 
-- 🔭 I’m currently working on [Backend Development of Inventory Management System Using Microservice Architecture](https://github.com/sulemanbashir/microservice)
-
 - 🔎 Review my work located in the 'Pinned Projects' section below.
 
 - 🌱 I’m currently learning **DevOps, Bootstrap and Vue.js**
